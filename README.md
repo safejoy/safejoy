@@ -1,10 +1,10 @@
 <h2> Hi, I'm Joy! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=safejoy.safejoy)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)    
 
-<p><em>Trans artist & dev of <a href="https://github.com/safejoy/potions-panic">Potions Panic!</a> at <a href="https://15.gay">15 Gay Studios</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> and main Joygiver at <a href="http://safejoy.org">Safe Joy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></br>Love to talk about stuff, my new <a href="https://joyspeaks.blog">blog</a> is here<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"></p>
+<p><em>Trans artist & dev of <a href="https://github.com/safejoy/potions-panic">Potions Panic!</a> at <a href="https://15.gay">15 Gay Studios</a><img src="https://media.giphy.com/media/3oKIPa2XhvvZfp45zy/giphy.gif" width="30"> and main Joygiver at <a href="http://safejoy.org">Safe Joy</a><img src="https://media.giphy.com/media/iRb8cW6bmAinOvEbS9/giphy.gif" width="30"> 
+</em></br>Love to talk about stuff, my new <a href="https://joyspeaks.blog">blog</a> is here<img src="https://media.giphy.com/media/Kc8jJl0Sf0BuPGrT9m/giphy.gif" width="30"></p>
 
 <img align='right' src="https://github.com/safejoy/safejoy/blob/main/images/pocketjoy1.png" width="350">
 
